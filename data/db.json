@@ -1,23 +1,29 @@
-[
-        {   "id": "1",
-            "company": "Gintell (M) Sdn bhd",
-            "position": "Outdoor Technician",
-            "duration": "March 2021 - March 2022"
-        },
-        {   "id": "2",
-            "company": "NSK Micro Presicion Sdn Bhd",
-            "position": "Mech. Tech. I ",
-            "duration": "June 2020 - February 2021"
-        },
-        {   "id": "3",
-            "company": "Optima Klasik Sdn Bhd",
-            "position": "Production Tecnician",
-            "duration": "December 2018 - March 2020"
-        },
-        {   "id": "4",
-            "company": "99Speedmart Sdn Bhd",
-            "position": "Storekeeper",
-            "duration": "September 2015 - October 2015"
-        }
-    ]
-
+[{
+		"id": "1",
+		"company": "Gintell (M) Sdn bhd",
+		"position": "Outdoor Technician",
+		"duration": "March 2021 - March 2022",
+		"description": [" Troubleshooting, servicing and repairing the unit problem.", "Discussing with customer to solve their problem.", "Traveling to assigned place when task is required."]
+	},
+	{
+		"id": "2",
+		"company": "NSK Micro Presicion Sdn Bhd",
+		"position": "Mech. Tech. I ",
+		"duration": "June 2020 - February 2021",
+		"description": ["Maintain machine performance by daily/weekly maintenance.", "Operate machinery according to job instruction.", " Set up machine for operation to achieve quality control standard."]
+	},
+	{
+		"id": "3",
+		"company": "Optima Klasik Sdn Bhd",
+		"position": "Production Tecnician",
+		"duration": "December 2018 - March 2020",
+		"description": ["Record keeping of production work.", "Repair / Re-construct PCB circuit and defect units.", "Assist Engineer in developing new product."]
+	},
+	{
+		"id": "4",
+		"company": "99Speedmart Sdn Bhd",
+		"position": "Storekeeper",
+		"duration": "September 2015 - October 2015",
+		"description": ["Keep store clean and tidy at all times.", "Assist customers to find what they need quickly"]
+	}
+]
